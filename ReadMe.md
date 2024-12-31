@@ -1,0 +1,1 @@
+# This is an attempt to write variational autoencoder for sound synthesis 
